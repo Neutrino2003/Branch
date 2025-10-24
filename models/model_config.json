@@ -1,0 +1,18 @@
+{
+    "features": [
+        "age",
+        "cash_incoming_30days",
+        "num_gps_records",
+        "unique_locations",
+        "geographic_spread",
+        "total_distance_km",
+        "has_gps"
+    ],
+    "model_type": "Random Forest (Tuned)",
+    "roc_auc": 0.7655555555555555,
+    "accuracy": 0.675,
+    "precision": 0.6779661016949152,
+    "recall": 0.6666666666666666,
+    "f1_score": 0.6722689075630253,
+    "saved_at": "2025-10-24T19:04:30.574774"
+}
